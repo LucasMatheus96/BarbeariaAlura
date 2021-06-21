@@ -306,4 +306,25 @@ content:"[ "
      width: auto;
     margin : 5px 10px 5px -20px;
  }
+
+ .input-padrao{
+     width: auto;
+    
+ }
+ textarea{
+    width: 97%;
+}
+
+.enviar{
+    width: 100%;
+}
+
+table{
+    width: 100%;
+}
+
+form #nomesobrenome , #email, #Telefone {
+    width: 100%;
+}
+
 }
